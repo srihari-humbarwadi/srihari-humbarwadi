@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/srihari-humbarwadi)
   - [Twitter](https://twitter.com/srihari_rh)
-- ⚡ _Fun fact: I don't sleep_
+- ⚡ Fun fact: _I rarely sleep_
