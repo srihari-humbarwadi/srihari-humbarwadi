@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a _Senior Computer Vision Engineer_ at @Bosch.
+I am a _Senior Computer Vision Engineer_ at Bosch Research.
+
 
 <!--
 **srihari-humbarwadi/srihari-humbarwadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +24,7 @@ Here are some ideas to get you started:
   - [LinkedIn](https://www.linkedin.com/in/srihari-humbarwadi)
   - [Twitter](https://twitter.com/srihari_rh)
 - ⚡ Fun fact: _I rarely sleep at night_
+
+
+<a href="https://sourcerer.io/srihari-humbarwadi">
+  <img src="https://sourcerer.io/icons/logo-sharing.svg"height="32px" alt="Sourcerer"></a>
