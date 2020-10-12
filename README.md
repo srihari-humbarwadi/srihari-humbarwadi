@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - _Optimization methods, Multivariate Calculus and Machine Vision_
 - 👯 I’m looking to collaborate on: 
   - _Implementing research papers in computer vision_
-- 🤔 I’m looking to others in help with: 
+- 🤔 I’m looking to help others with: 
   - _Bugs in Python, TensorFlow1.x and 2.x code_
 - 💬 Ask me about:
   - _Deep Learning, TensorFlow, Math_ 
