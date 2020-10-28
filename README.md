@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a _Senior Computer Vision Engineer_ at Bosch Research.
+I am a _Senior Computer Vision Engineer_ at Bosch Research and a grad student at the University of Edinburgh.
 
 
 <!--
