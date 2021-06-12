@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
+  - _Implementing Panoptic Segmentation for [TensorFlow Model Garden](https://github.com/tensorflow/models/tree/master/official/vision/beta)_
   - _Implementing Object Detection models in TensorFlow2.x_
   - _Self Supervision for pretraining Image models_
   - _Large minibatch training on TPUs_
